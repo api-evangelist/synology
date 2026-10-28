@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Synology C2 is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://synology.com/
+Synology C2 provides cloud backup and storage solutions for businesses and consumers, offering secure data protection, scalable storage, and integrated services such as ActiveProtect appliances and AI‑powered surveillance. The company emphasizes reliability, performance, and enterprise‑grade features across its DSM operating system and hardware lineup.
+
+**Areas:** Company · Cloud · Backup · Storage · Enterprise
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://synology.com/)
+- [Blog](https://blog.synology.com/)
+- [Security](https://www.synology.com/security/bounty_program)
+- [Terms of service](https://c2.synology.com/legal/terms_conditions)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/synology/](https://apis.io/providers/synology/).
